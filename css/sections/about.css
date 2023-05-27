@@ -66,7 +66,15 @@
   cursor: pointer;
 }
 
-.about-us__content {
+.about-us__button img {
+  object-fit: contain;
+  margin-left: 32px;
+}
+
+.about-us__content {.about-us__button img {
+  object-fit: contain;
+  margin-left: 32px;
+}
   padding: 64px;
   flex: 1;
   display: flex;
